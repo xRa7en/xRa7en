@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış 'Ra7en'</h1>
-<h3 align="center">I am a sleepy developer from Türkiye</h3>
+<h3 align="center">I am a developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xra7en&label=Profile%20views&color=0e75b6&style=flat" alt="xra7en" /> </p>
 
